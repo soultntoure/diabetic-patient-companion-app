@@ -1,0 +1,23 @@
+# Ignore Node.js modules
+node_modules/
+
+# Ignore build outputs
+android/app/build
+iOS/build
+
+# Ignore logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore env files
+.env
+
+# Ignore editor directories
+.vscode/
+.idea/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
